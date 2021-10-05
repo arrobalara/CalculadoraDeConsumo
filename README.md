@@ -1,2 +1,1 @@
-# CalculadoraDeConsumo
-Calculadora comparativa de consumo de etanol e gasolina
+Projeto desenvolvido com meu amigo e parceiro de estudos Luiz Fillipe Moreira.
